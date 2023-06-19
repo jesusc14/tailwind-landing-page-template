@@ -138,8 +138,6 @@ export default function Footer() {
             </li>
           </ul>
 
-          {/* Copyrights note */}
-          <div className="text-sm text-gray-600 mr-4">&copy; Cruip.com. All rights reserved.</div>
 
         </div>
 
